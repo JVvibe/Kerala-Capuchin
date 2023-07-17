@@ -1,4 +1,4 @@
-# keralacapuchin.com
+# Kerala Capuchin
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <style>
         body {
             background-image: url("background-image.jpg");
-            background-size-small: cover;
+            background-size-fit-screen: cover;
             background-position: center;
         }
     </style>
