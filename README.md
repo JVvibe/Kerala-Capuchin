@@ -7,7 +7,7 @@
     <style>
         body {
             background-image: url("background-image.jpg");
-            background-size: cover;
+            background-size-small: cover;
             background-position: center;
         }
     </style>
